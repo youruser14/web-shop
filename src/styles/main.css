@@ -1,0 +1,66 @@
+:root {
+    --yellow: #FFA542;
+    --grey: #838383;
+}
+
+.p {
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--grey);
+}
+
+.h1 {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.h3 {
+    font-weight: 400;
+    font-size: 17px;
+}
+
+html {
+    background-color: #EAEAEA;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+html,
+body {
+    height: 100%;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+
+
+.logo {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 25px;
+}
+.logo:hover {
+    color: var(--yellow);
+    transition: .1s ease-out;
+}
+
+.App {
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1135px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+
+}
+
+main {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
