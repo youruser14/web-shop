@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-shop/static/css/main.1ac6a606.css",
+    "main.js": "/web-shop/static/js/main.21dad071.js",
+    "static/media/VK.svg": "/web-shop/static/media/VK.1ac2cc8950aa67b1d5a09726dd0b60b1.svg",
+    "static/media/Whatsapp.svg": "/web-shop/static/media/Whatsapp.f998ac590f1ccfac664e5e7b82ff9d54.svg",
+    "static/media/basket.svg": "/web-shop/static/media/basket.0755738f949b36eb371956870cd1c963.svg",
+    "static/media/Group.svg": "/web-shop/static/media/Group.7b9cc68c2528ffcafcbc1fb1ef414f63.svg",
+    "static/media/Telegram.svg": "/web-shop/static/media/Telegram.4cff094a3c5b423ad84123f013184478.svg",
+    "index.html": "/web-shop/index.html",
+    "static/media/Delete.svg": "/web-shop/static/media/Delete.c3b466f51641c238a464efcaaee70ebf.svg",
+    "static/media/favourites.svg": "/web-shop/static/media/favourites.9a5c8c617a09c69fc0561f9f20dc6d0c.svg",
+    "main.1ac6a606.css.map": "/web-shop/static/css/main.1ac6a606.css.map",
+    "main.21dad071.js.map": "/web-shop/static/js/main.21dad071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac6a606.css",
+    "static/js/main.21dad071.js"
+  ]
+}
